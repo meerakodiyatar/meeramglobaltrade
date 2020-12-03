@@ -220,7 +220,7 @@ a.main-button-slider {
   font-size: 13px;
   border-radius: 20px;
   padding: 12px 20px;
-  background-color: #e07d27;
+  background-color: #ee8021;
   text-transform: uppercase;
   color: #fff;
   letter-spacing: 0.25px;
@@ -840,7 +840,7 @@ about
 */
 
 #about {
-  padding: 120px 0px;
+  padding: 60px 0px;
   border-bottom: 1px solid #eee;
 }
 
@@ -859,7 +859,7 @@ about
 }
 
 #about2 {
-  padding: 120px 0px;
+  padding: 40px 0px;
 }
 
 #about2 .right-image {
@@ -917,9 +917,9 @@ services
 .service-item {
   cursor: pointer;
   display: block;
-  background: #ffffff;
+  background: #fff;
   box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.1);
-  padding: 40px 30px;
+  padding: 5px 5px;
   text-align: center;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -1059,7 +1059,7 @@ accordions
 */
 
 #frequently-question {
-  padding: 120px 0px;
+  padding: 30px 0px;
 }
 
 #frequently-question .section-heading p {
@@ -1315,7 +1315,7 @@ footer .social li a:hover {
 }
 
 footer .copyright {
-  margin-top: 10px;
+  /* margin-top: 10px; */
   font-weight: 400;
   font-size: 15px;
   color: #4a4a4a;
