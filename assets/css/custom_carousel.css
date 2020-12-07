@@ -293,20 +293,29 @@ body {
   height: 30px;
   width: 30px;
 }
+
+.slideHeaderOpacity {
+  background-color: rgba(255, 255, 255, 25%);
+}
+
+.slideHeaderOpacityHigh {
+  background-color: rgba(255, 255, 255, 40%);
+}
 h1 {
   font-size: 40px;
   line-height: 50px;
-  color: #fff;
+  color: #000;
   position: absolute;
   top: 75%;
   width: 100%;
   text-align: center;
   /* margin-top: -25px; */
 }
-h2 {
+
+.mainpagecarhead {
   font-size: 20px;
   line-height: 50px;
-  color: #fff;
+  color: #000;
   position: absolute;
   top: 82%;
   width: 100%;
