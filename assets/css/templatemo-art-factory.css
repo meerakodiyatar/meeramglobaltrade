@@ -885,6 +885,7 @@ about
 }
 
 #about2 ul li img {
+  margin-top: 15px;
   display: inline;
   float: left;
 }
@@ -894,7 +895,7 @@ about
 }
 
 #about2 ul li .text h6 {
-  padding-top: 12px;
+  padding-top: 30px;
   font-size: 21px;
   font-weight: 500;
   color: #1e1e1e;
@@ -911,7 +912,7 @@ services
   padding: 10px;
   /* background: rgba(0, 136, 232, 1); */
   /* background: #cedc28; */
-  background: #8dc63f;
+  background: #ffd092;
   /* filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0088e8', endColorstr='#0088e8', GradientType=1 ); */
 }
 
