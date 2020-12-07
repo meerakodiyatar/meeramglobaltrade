@@ -341,7 +341,7 @@ header
 .header-area .main-nav .logo {
   line-height: 80px;
   color: #fff;
-  font-size: 28px;
+  font-size: 14px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -911,7 +911,7 @@ services
   padding: 10px;
   /* background: rgba(0, 136, 232, 1); */
   /* background: #cedc28; */
-  background: #8DC63F;
+  background: #8dc63f;
   /* filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0088e8', endColorstr='#0088e8', GradientType=1 ); */
 }
 
