@@ -8,7 +8,7 @@
 .carousel1 {
   display: block;
   height: 700px;
-  width: 1515px;
+  width: 100%;
   overflow: hidden;
   text-align: center;
   position: relative;
@@ -334,13 +334,14 @@ h3 {
 .carousel__slide1:nth-of-type(1),
 .carousel--thumb .carousel__indikatorz1 .carousel__indicator1:nth-of-type(1) {
   background-image: url("../images/products/Slider/3.jpg");
+
   background-size: cover;
   background-position: center;
 }
 .carousel__slide1:nth-of-type(2),
 .carousel--thumb .carousel__indikatorz1 .carousel__indicator1:nth-of-type(2) {
   background-image: url("../images/products/Slider/1.jpg");
-  background-size: cover;
+  background-size: 100% 100%;
   background-position: center;
 }
 .carousel__slide1:nth-of-type(3),
