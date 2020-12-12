@@ -20,7 +20,7 @@
 }
 .carousel1 {
   display: block;
-  height: 700px;
+  height: 600px;
   width: 100%;
   overflow: hidden;
   text-align: center;
@@ -375,3 +375,10 @@ h3 {
   background-size: cover;
   background-position: center;
 } */
+
+@media only screen and (max-width: 600px) {
+  .custom_carousel_text {
+    top : 55%
+  }
+}
+
